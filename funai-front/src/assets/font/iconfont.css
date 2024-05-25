@@ -1,0 +1,146 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3946981 */
+  src: url('//at.alicdn.com/t/c/font_3946981_0oip03au5jwd.woff2?t=1683538105969') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3946981_0oip03au5jwd.woff?t=1683538105969') format('woff'),
+       url('//at.alicdn.com/t/c/font_3946981_0oip03au5jwd.ttf?t=1683538105969') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jiantou_xiangyou:before {
+  content: "\eb08";
+}
+
+.icon-jiantou_xiangzuo:before {
+  content: "\eb09";
+}
+
+.icon-double-arrows:before {
+  content: "\e636";
+}
+
+.icon-shuangxiangshujuhuchuan_transfer-data:before {
+  content: "\e61b";
+}
+
+.icon-ai-img:before {
+  content: "\e615";
+}
+
+.icon-jiqiren:before {
+  content: "\e642";
+}
+
+.icon-fuzhi:before {
+  content: "\e605";
+}
+
+.icon-jiqiren1:before {
+  content: "\e6c0";
+}
+
+.icon-qingchu:before {
+  content: "\e747";
+}
+
+.icon-jieshu:before {
+  content: "\e624";
+}
+
+.icon-yonghu:before {
+  content: "\e604";
+}
+
+.icon-gongneng:before {
+  content: "\e84a";
+}
+
+.icon-guanyuwomen:before {
+  content: "\e628";
+}
+
+.icon-guanyuwo:before {
+  content: "\e603";
+}
+
+.icon-zhankaishousuo:before {
+  content: "\e648";
+}
+
+.icon-zhuanjia:before {
+  content: "\e607";
+}
+
+.icon-31shengbo:before {
+  content: "\e602";
+}
+
+.icon-yuyin:before {
+  content: "\e6e1";
+}
+
+.icon-ziliaoku:before {
+  content: "\e601";
+}
+
+.icon-kouyuzhuanxiangke:before {
+  content: "\e606";
+}
+
+.icon-youxi:before {
+  content: "\e620";
+}
+
+.icon-kaishi1:before {
+  content: "\e622";
+}
+
+.icon-shanchu:before {
+  content: "\e600";
+}
+
+.icon-huihua:before {
+  content: "\e614";
+}
+
+.icon-xiazai:before {
+  content: "\e60e";
+}
+
+.icon-tupian:before {
+  content: "\e8ba";
+}
+
+.icon-qingkong:before {
+  content: "\e946";
+}
+
+.icon-youxiyouxiji:before {
+  content: "\e61e";
+}
+
+.icon-yulanjianli:before {
+  content: "\e613";
+}
+
+.icon-fanyi:before {
+  content: "\e60d";
+}
+
+.icon-pdf:before {
+  content: "\e619";
+}
+
+.icon-fasong:before {
+  content: "\e652";
+}
+
+.icon-denglu:before {
+  content: "\e612";
+}
